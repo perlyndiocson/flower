@@ -64,11 +64,6 @@ body {
   <a href="#about">About</a>
 </div>
 
-<div style="padding-left:16px">
-  <h2>Top Navigation Example</h2>
-  <p>Some content..</p>
-</div>
-
 </body>
 </html>
 
