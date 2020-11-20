@@ -4,7 +4,7 @@
   </head>
   <body>
    
-    <center><h1> HELLO WELCOME TO FLOOM !!</H1></center>
+    <center><h1> HELLO WELCOME TO FLOOM !!</h1></center>
     <p>Why we champion local independent florists</p>
     <p> it's not always easy to find a beautiful crafted
 bouquets when ordering flowers online
