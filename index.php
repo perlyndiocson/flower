@@ -1,8 +1,8 @@
 <html>
 <head>
-  
-<body>
-<style>
+  <title> FLOOM </title>
+  </head>
+  <body>
    
     <center><h1> HELLO WELCOME TO FLOOM !!</h1></center>
     <p>Why we champion local independent florists</p>
@@ -20,7 +20,6 @@ it will also can be unique to the sender and loved
 or arranging Funeral Flowers for a sensitive time, our
 local florist make sending flowers a truly special occasion,
       every time. Now We Deliver gorceries and hampers!</p>
-    </style
   </body>
 </html>
 
@@ -63,6 +62,11 @@ body {
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
+</div>
+
+<div style="padding-left:16px">
+  <h2>Top Navigation Example</h2>
+  <p>Some content..</p>
 </div>
 
 </body>
