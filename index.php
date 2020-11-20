@@ -3,6 +3,7 @@
   <title> FLOOM </title>
   </head>
   <body>
+  <style>
    
     <center><h1> HELLO WELCOME TO FLOOM !!</h1></center>
     <p>Why we champion local independent florists</p>
@@ -20,6 +21,7 @@ it will also can be unique to the sender and loved
 or arranging Funeral Flowers for a sensitive time, our
 local florist make sending flowers a truly special occasion,
       every time. Now We Deliver gorceries and hampers!</p>
+    </style
   </body>
 </html>
 
