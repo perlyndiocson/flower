@@ -1,6 +1,7 @@
 html,body {
   height: 500%;
   margin: 0;
+  
 }
 p {
   border: 5px solid powderblue;
@@ -8,7 +9,7 @@ p {
   background-color: #AFEEEE;
 }
 
-ody {
+body {
     background: #D0D8DB;
     padding-top: 60px;
     padding-bottom: 40px;
