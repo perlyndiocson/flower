@@ -1,3 +1,29 @@
+<html>
+<head>
+  <title> FLOOM </title>
+  </head>
+  <body>
+   
+    <center><h1> HELLO WELCOME TO FLOOM !!</H1></center>
+    <p>Why we champion local independent florists</p>
+    <p> it's not always easy to find a beautiful crafted
+bouquets when ordering flowers online
+or dashing to yor local markets. at Floom we're proud to be
+be bringing the local florist experience online,
+reminding people just how special the act of giving and receiving 
+      flooral arrangements can be.</p>
+    <p>Every item that you see on our site is utterly unique
+to the local florist who crafts it, which means 
+it will also can be unique to the sender and loved
+      one who receives it.</p>
+    <p> whether it is a Mother's Day Flowers or Valentines Day Flowers
+or arranging Funeral Flowers for a sensitive time, our
+local florist make sending flowers a truly special occasion,
+      every time. Now We Deliver gorceries and hampers!</p>
+
+    
+
+
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
   <!--
     Dmitri Smirnov
@@ -6,7 +32,6 @@
    -->
   <title id="title">Happy SVG Blossoms</title>
   <desc id="description">Dancing blossoms</desc>
-
   <rect x="0" y="0" width="100%" height="100%" id="sky"/>
   <circle cx="12%" cy="16%" r="15%" id="sun"/>
   
@@ -56,7 +81,6 @@
         <stop offset=".6" stop-color="#BBCBD9"/>
         <stop offset="1" stop-color="#fff" stop-opacity="0"/>
       </radialGradient>
-
       <g id="flower">
         <path d="M253 500 C274 377,326 449,330 307 C330 307,369 491,255 500z" class="leaf"/>
         <path d="M247 500 Q169 464 188 355,230 408,249 496" class="leaf"/>
@@ -80,7 +104,6 @@
             keySplines=".5 0 .5 1;.5 0 .5 1"
             repeatCount="indefinite"/>
         </path>
-
         <g id="flower-head" transform="translate(-40 0)">
           <path d="
           M260 158 C290 100 220 100 240 160
@@ -97,7 +120,6 @@
           M205 203 C140 192 176 147 210 188
           M208 183 C126 151 219 97 217 169
           M221 165 C169 88 244 71 238 157" class="pettals"/>
-
           <circle r="45" cx="250" cy="200" class="head"/>
           <path d="M235 210 Q250 230 264 210" class="mouth">
             <animate
@@ -126,7 +148,6 @@
               dur=".7s"
               repeatCount="indefinite"/>
           </path>
-
           <animateTransform
             attributeType="XML"
             attributeName="transform"
@@ -143,7 +164,6 @@
         </g>
       </g>
     </defs>
-
     <g id="cloud">
       <ellipse rx="200" ry="68" cx="550" cy="60" class="cloud"/>
       <ellipse rx="120" ry="68" cx="570" cy="80" class="cloud"/>
@@ -167,3 +187,16 @@
   </svg>
   <rect x="0" y="97%" width="100%" height="3%" id="ground"/>
 </svg>
+    
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+
+
+<footer>
+  <div class="rounded-social-buttons">
+                    <a class="social-button facebook" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    <a class="social-button twitter" href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a class="social-button linkedin" href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a class="social-button youtube" href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a>
+                    <a class="social-button instagram" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+                </div>
+</footer>
