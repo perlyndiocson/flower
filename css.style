@@ -7,6 +7,13 @@ p {
   padding: 10px;
   background-color: #AFEEEE;
 }
+
+ody {
+    background: #D0D8DB;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
 textarea {
     resize: none;
 }
