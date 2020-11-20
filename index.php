@@ -1,9 +1,8 @@
 <html>
 <head>
-  <title> FLOOM </title>
-  </head>
-  <body>
-  <style>
+  
+<body>
+<style>
    
     <center><h1> HELLO WELCOME TO FLOOM !!</h1></center>
     <p>Why we champion local independent florists</p>
