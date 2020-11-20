@@ -1,21 +1,12 @@
 html,body {
   height: 500%;
   margin: 0;
-  
 }
 p {
-  <link rel="stylesheet" href="styles.css">
   border: 5px solid powderblue;
-  padding: 15px;
+  padding: 10px;
   background-color: #AFEEEE;
 }
-
-body {
-    background: #D0D8DB;
-    padding-top: 60px;
-    padding-bottom: 40px;
-}
-
 textarea {
     resize: none;
 }
